@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html>
+
+
+<head>
+
+<title> Ibn Musa </title>
+<link rel="stylesheet"type="text/css" href="style.css">
+</head>
+<body>
+
+<style>
+h1{
+  font-size: 2.0em;
+}
+
+.primary-btn{
+  color: wihte;
+  background-color: #8845f4;
+  padding: 13px 42px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+body{
+  font-family: sans-serif;
+  color: #777777;
+  line-height: 26px;
+}
+
+.purple-color{
+  color: #8845f4;
+}
+
+
+.p{
+ color: grpurple-coloreen;
+  margin: 56px;
+}
+.l{
+  color:red;
+}
+.m{
+  color: green;
+}
+#name{
+  color: purple;
+}
+.p{
+  background-color: Origen;
+  margin: 10px;
+  paddin: 2px;
+  
+}
+.y{
+  border: 10px solid green;
+}
+.t{
+border: 12px Solid   red;
+  
+}
+.half-width{
+  width: 50℅;
+  float: left;
+}
+
+</style> 
+
+<div class="half-width">
+<h1>
+Welcome to <span class="purple-color"> peter park </span> world  </h1>
+<h3> Building climber and Train stopper </h3>
+<p> You might see me jumping, climbing buildings, and stooping trains,But nobody pays me a dime for that work. That's why i am  learning and  mastering web development.  
+I will not stop untill I become te web development hero. </p>
+</div>
+<a class="primary-btn" href="https://www.linkedin.com/in/junkar/"> Hire Me </a>
+<style>
+.side-img{
+  width: 50%;
+  padding: 25%
+}
+</style>
+<div class="half-width"> 
+<img sre="images/profile.png"alt=""/>
+</div>
+<h3> 
+
+<div class="p"> <h3> Name: Mohammad Ibn Musa </h3> </div>
+ blood group:<div class="l"> O+ </div>
+ <h4> <em> birth date : 01-03-2006 </em>
+   
+
+ <div class="t"> <h3> <div class="m"> Country: Bangladesh </h3> <h5> Living village: Chandrobash,Damurhuda,chuadanga. </h5> 
+
+Occupation: student
+</div>
+
+
+
+
+</body>
+
+<div class="y"> gmail: mibnmusa20@gmail.com </div>
+
+<div class="t"> mobile number : +8801840389358 </div>
+</html>
